@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sabertooth_007.aternos.me:23288",
+    "ip": "sabertooth_007.aternos.me",
     "port": 23288,
     "version": "",
     "try-creative": false
